@@ -1,5 +1,5 @@
 const testDependency = () => {
-    console.log('version 2 of the depenency');
+    console.log('version 3 of the depenency');
 }
 
 export default testDependency;
